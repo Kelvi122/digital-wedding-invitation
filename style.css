@@ -3,3 +3,9 @@ body {
   color: #80020;
   font-family: Arial, sans-serif;
 }
+h1 {
+  font-size: 48px;
+}
+p {
+  font-size: 22px;
+}
