@@ -9,6 +9,7 @@ h1 {
   text-align: center;
   margin-top: 20pc;
   border: 5px dotted #800020;
+  border-radius: 20px;
 }
 p {
   font-size: 22px;
