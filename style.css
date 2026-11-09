@@ -5,7 +5,9 @@ body {
 }
 h1 {
   font-size: 48px;
+  text-align: center;
 }
 p {
   font-size: 22px;
+  text-align: center;
 }
